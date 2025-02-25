@@ -1,0 +1,7 @@
+one per line example :
+
+channel1
+channel2
+
+
+( delete this and replace
